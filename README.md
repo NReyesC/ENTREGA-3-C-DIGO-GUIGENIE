@@ -1,7 +1,7 @@
-# ENTREGA-3
-#ENTREGA 3
-#Código del Gui genie
-#MAIN PAGE
+# ENTREGA-3<br>
+#ENTREGA 3<br>
+#Código del Gui genie<br>
+#MAIN PAGE<br>
 import java.awt.*;
 import java.awt.event.*;
 import javax.swing.*;
