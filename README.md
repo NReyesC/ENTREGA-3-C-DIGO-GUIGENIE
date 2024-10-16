@@ -1,6 +1,6 @@
 # ENTREGA-3
-ENTREGA 3
-Código del Gui genie
+#ENTREGA 3
+#Código del Gui genie
 #MAIN PAGE
 import java.awt.*;
 import java.awt.event.*;
