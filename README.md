@@ -2,16 +2,16 @@
 #ENTREGA 3<br>
 #Código del Gui genie<br>
 #MAIN PAGE<br>
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
-import javax.swing.event.*;
+import java.awt.*; <br>
+import java.awt.event.*; <br>
+import javax.swing.*; <br>
+import javax.swing.event.*; <br>
 
-public class MAINPAGE extends JPanel {
-    private JLabel jcomp1;
-    private JLabel jcomp2;
-    private JTextField jcomp3;
-    private JButton jcomp4;
+public class MAINPAGE extends JPanel { <br>
+    private JLabel jcomp1; <br>
+    private JLabel jcomp2; <br>
+    private JTextField jcomp3; <br>
+    private JButton jcomp4; <br>
 
     public MAINPAGE() {
         //construct components
@@ -49,23 +49,23 @@ public class MAINPAGE extends JPanel {
 
 #VISITANTES
 
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
-import javax.swing.event.*;
+import java.awt.*; <br>
+import java.awt.event.*; <br>
+import javax.swing.*; <br>
+import javax.swing.event.*; <br>
 
-public class MainPageWIE extends JPanel {
-    private JLabel jcomp1;
-    private JLabel jcomp2;
-    private JButton jcomp3;
-    private JButton jcomp4;
-    private JButton jcomp5;
-    private JButton jcomp6;
-    private JButton jcomp7;
-    private JButton jcomp8;
-    private JButton jcomp9;
-    private JButton jcomp10;
-    private JButton jcomp11;
+public class MainPageWIE extends JPanel { <br>
+    private JLabel jcomp1;<br>
+    private JLabel jcomp2;<br>
+    private JButton jcomp3;<br>
+    private JButton jcomp4;<br>
+    private JButton jcomp5;<br>
+    private JButton jcomp6;<br>
+    private JButton jcomp7;<br>
+    private JButton jcomp8;<br>
+    private JButton jcomp9;<br>
+    private JButton jcomp10;<br>
+    private JButton jcomp11;<br>
 
     public MainPageWIE() {
         //construct components
@@ -123,26 +123,26 @@ public class MainPageWIE extends JPanel {
 }
 #ESTUDIANTES
 
-import java.awt.*;
-import java.awt.event.*;
-import javax.swing.*;
-import javax.swing.event.*;
+import java.awt.*;<br>
+import java.awt.event.*;<br>
+import javax.swing.*;<br>
+import javax.swing.event.*;<br>
 
-public class ESTUDIANTES extends JPanel {
-    private JLabel jcomp1;
-    private JLabel jcomp2;
-    private JButton jcomp3;
-    private JButton jcomp4;
-    private JButton jcomp5;
-    private JButton jcomp6;
-    private JButton jcomp7;
-    private JButton jcomp8;
-    private JButton jcomp9;
-    private JButton jcomp10;
-    private JButton jcomp11;
-    private JButton jcomp12;
-    private JButton jcomp13;
-    private JButton jcomp14;
+public class ESTUDIANTES extends JPanel {<br>
+    private JLabel jcomp1;<br>
+    private JLabel jcomp2;<br>
+    private JButton jcomp3;<br>
+    private JButton jcomp4;<br>
+    private JButton jcomp5;<br>
+    private JButton jcomp6;<br>
+    private JButton jcomp7;<br>
+    private JButton jcomp8;<br>
+    private JButton jcomp9;<br>
+    private JButton jcomp10;<br>
+    private JButton jcomp11;<br>
+    private JButton jcomp12;<br>
+    private JButton jcomp13;<br>
+    private JButton jcomp14;<br>
 
     public ESTUDIANTES() {
         //construct components
